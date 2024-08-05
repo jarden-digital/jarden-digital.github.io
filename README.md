@@ -1,12 +1,12 @@
-# Jarden Wealth Image Repository
+# Jarden Digital Image Repository
 
 This repository is used to provide static hosting for images in production. We should replace this with a proper CDN and deployment process (or something).
 
 ## License
 
-All images in this repository are owned by Jarden Wealth. Unauthorized use is prohibited.
+All images in this repository are owned by Jarden Digital. Unauthorized use is prohibited.
 
-© Jarden Wealth 2024
+© Jarden Digital 2024
 
 ## Contact
 
