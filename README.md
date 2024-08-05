@@ -11,7 +11,3 @@ All images in this repository are owned by Jarden Wealth. Unauthorized use is pr
 ## Contact
 
 If you have any questions or need further assistance, please contact the repository maintainer at [contact@jarden.co.nz](mailto:contact@jarden.co.nz).
-
----
-
-Feel free to reach out if you have any suggestions or improvements for this README file.
